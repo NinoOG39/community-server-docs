@@ -8,8 +8,7 @@ Mitgliederliste {id="clan-members"}
 : Mit dem Befehl `/clan members` werden dir alle Mitglieder deines Clans angezeigt.
 
 Clan verlassen {id="clan-leave"}
-: Mit dem Befehl `/clan leave` kannst du deinen aktuellen Clan verlassen.
-
+: Mit dem Bef
 Dicord-Server hinzufügen {id="clan-link-discord"}
 : Mit dem Befehl `/clan setdiscord <URL>` kannst du deinem Clan einen eigenen Discord-Server zuweisen.
 Dieser Link wird dann angezeigt, wenn man sich die [Informationen zum Clan](clan-more-info.md#clan-info) ansieht.
